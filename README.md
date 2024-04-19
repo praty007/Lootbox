@@ -7,6 +7,8 @@ You may choose to use it in your project now or after the refactoring. For now, 
 The UI is shit in the sample scene but it shows how the project works.
 
 Possible feature additions in the future:
-<li>Use codegen to streamline Lootboxes. So it really becomes just simple a drag and drop plugin.</li>
+<li>Use codegen to streamline Lootboxes. So it justnreally becomes a simple drag and drop plugin.</li>
 <li>Make the project more Object Oriented and Optimized (Suggestions and constructive criticism welcome).</li>
 <li>An inventory system to go with the Lootbox System, complete with codegen as well.</li>
+
+Dependency: Newtonsoft JSON as available on UPM.
